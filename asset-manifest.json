@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Theme-Switcher/static/css/main.2ae47eeb.chunk.css",
+    "main.js": "/Theme-Switcher/static/js/main.9a17dc3e.chunk.js",
+    "main.js.map": "/Theme-Switcher/static/js/main.9a17dc3e.chunk.js.map",
+    "runtime-main.js": "/Theme-Switcher/static/js/runtime-main.65ad58f4.js",
+    "runtime-main.js.map": "/Theme-Switcher/static/js/runtime-main.65ad58f4.js.map",
+    "static/js/2.3dc3e1a5.chunk.js": "/Theme-Switcher/static/js/2.3dc3e1a5.chunk.js",
+    "static/js/2.3dc3e1a5.chunk.js.map": "/Theme-Switcher/static/js/2.3dc3e1a5.chunk.js.map",
+    "static/js/3.410f791e.chunk.js": "/Theme-Switcher/static/js/3.410f791e.chunk.js",
+    "static/js/3.410f791e.chunk.js.map": "/Theme-Switcher/static/js/3.410f791e.chunk.js.map",
+    "index.html": "/Theme-Switcher/index.html",
+    "static/css/main.2ae47eeb.chunk.css.map": "/Theme-Switcher/static/css/main.2ae47eeb.chunk.css.map",
+    "static/js/2.3dc3e1a5.chunk.js.LICENSE.txt": "/Theme-Switcher/static/js/2.3dc3e1a5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.65ad58f4.js",
+    "static/js/2.3dc3e1a5.chunk.js",
+    "static/css/main.2ae47eeb.chunk.css",
+    "static/js/main.9a17dc3e.chunk.js"
+  ]
+}
